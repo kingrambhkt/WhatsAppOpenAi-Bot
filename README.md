@@ -44,3 +44,11 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 3. Deploy to Replit
      <br>
 <a href='https://replit.com/' target="_blank"><img alt='DEPLOY TO REPLIT' src='https://img.shields.io/badge/Deploy_To_Replit-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+4. Deploy to Koyeb
+     <br>
+<a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/Deploy_To_Koyeb-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+5. Deploy to Mogenius
+    <br>
+<a href='https://mogenius.com/' target="_blank"><img alt='DEPLOY TO MOGENIUS' src='https://img.shields.io/badge/Deploy_To_Mogenius-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
