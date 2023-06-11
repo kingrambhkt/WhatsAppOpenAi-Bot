@@ -27,3 +27,20 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 2. Fork this Repository
     <br>
 <a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_This_Repository-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+3. Upload creds.json file to session folder
+
+4. Add your OpenAi Api Key in .env file
+
+## Deploy Bot
+1. Deploy to Heroku
+     <br>
+<a href='https://heroku.com/' target="_blank"><img alt='DEPLOY TO HEROKU' src='https://img.shields.io/badge/Deploy_To_Heroku-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Deploy to Railway
+     <br>
+<a href='https://railway.com/' target="_blank"><img alt='DEPLOY TO RAILWAY' src='https://img.shields.io/badge/Deploy_To_Railway-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+3. Deploy to Replit
+     <br>
+<a href='https://replit.com/' target="_blank"><img alt='DEPLOY TO REPLIT' src='https://img.shields.io/badge/Deploy_To_Replit-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
