@@ -2,13 +2,13 @@
 
 <p align="center">
 
-<img src="https://yt3.googleusercontent.com/t6OlSgHu36KIMzo_ti28CR06gZXdzMcbIP1sz0m5f6jT5w5eWxxW82tKWWRlLvGSssbHr6BnOQ=s176-c-k-c0x00ffffff-no-rj" width="300" height="300"/>
+<img src="https://github.com/MznStudios/WhatsAppOpenAi-Bot/blob/main/Media/Images/WhatsAppOpenAi.jpg?raw=true" width="300" height="300"/>
 
 </p>
 
 <div align="center"> 
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=I'm+Cyber+Lakiya; Please+Follow+Me+on+YT;Please+Support+Me" alt="Typing SVG" /></a>    </div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=Welcome+to+OpenAi+Bot;Follow+me+on+Github;WhatsApp+OpenAi+Bot" alt="Typing SVG" /></a>    </div>
 
  
 
