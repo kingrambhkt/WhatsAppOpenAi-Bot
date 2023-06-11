@@ -56,3 +56,7 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 6. Deploy to Mogenius
     <br>
 <a href='https://mogenius.com/' target="_blank"><img alt='DEPLOY TO MOGENIUS' src='https://img.shields.io/badge/Deploy_To_Mogenius-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+7. Deploy to Okteto
+    <br>
+<a href='https://cloud.okteto.com/deploy' target="_blank"><img alt='DEPLOY TO OKTETO' src='https://img.shields.io/badge/Deploy_To_Okteto-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
