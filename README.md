@@ -49,6 +49,10 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
      <br>
 <a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/Deploy_To_Koyeb-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-5. Deploy to Mogenius
+5. Deploy to Uffizzi
+      <br>
+<a href='https://uffizzi.com/' target="_blank"><img alt='DEPLOY TO UFFIZZI' src='https://img.shields.io/badge/Deploy_To_Uffizzi-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+6. Deploy to Mogenius
     <br>
 <a href='https://mogenius.com/' target="_blank"><img alt='DEPLOY TO MOGENIUS' src='https://img.shields.io/badge/Deploy_To_Mogenius-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
