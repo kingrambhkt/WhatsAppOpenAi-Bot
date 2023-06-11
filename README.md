@@ -23,3 +23,7 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 1. Scan the QR code
     <br>
 <a href='https://replit.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Fork this Repository
+    <br>
+<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_This_Repository-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
