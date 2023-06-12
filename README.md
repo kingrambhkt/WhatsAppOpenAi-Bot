@@ -68,5 +68,6 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 <a href="https://m.facebook.com/Fathi.Ilma.Afc"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook%20Page-black?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ## License
-This repository was  using [GitHub Pages](https://pages.github.com/).
+**This repository  is licensed under the [MIT LICENSE](https://github.com/MznStudios/WhatsAppOpenAi-Bot/blob/main/LICENSE).**
 
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
