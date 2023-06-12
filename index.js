@@ -343,11 +343,11 @@ async function startHisoka() {
         startHisoka();
       }
     } else if (connection === "open") {
-      console.log(color("Bot success conneted to server", "green"));
-      console.log(color("Follow: on GitHub: @MznStudiosOfc", "yellow"));
+      console.log(color("Bot Successfully Connected! Welcome owner!", "green"));
+      console.log(color("Follow on GitHub: @MznStudiosOfc", "yellow"));
       console.log(color("Type /menu to see menu"));
       client.sendMessage(owner + "@s.whatsapp.net", {
-        text: `ChatGPT Sucsessfully Connected to Server!\n${donet}`,
+        text: `*✅️ WHATSAPP OPENAI BOT IS CONNECTED!*\n${donet}\n\n*『 𝙼𝚉𝙽 𝙱𝙾𝚃𝚂 』• 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻*`,
       });
     }
     // console.log('Connected...', update)
