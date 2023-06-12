@@ -32,4 +32,7 @@ npm start
 ```
 
 ### Deploy on Other Platforms
-<a href='https://platform.openai.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up-100000?style=for-the-badge&logo=signup&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot#deploy-bot' target="_blank"><img alt='DEPLOY BOT' src='https://img.shields.io/badge/Deploy_on_Other_Platforms-100000?style=for-the-badge&logo=deploy&logoColor=white&labelColor=black&color=black'/></a>
+
+### Read More About this bot
+<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/' target="_blank"><img alt='READ MORE' src='https://img.shields.io/badge/Read_More-100000?style=for-the-badge&logo=readmore&logoColor=white&labelColor=black&color=black'/></a>
