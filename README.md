@@ -18,6 +18,15 @@ OpenAI's GPT (generative pre-trained transformer) models have been trained to un
 ## Embeddings
 An embedding is a vector representation of a piece of data (e.g. some text) that is meant to preserve aspects of its content and/or its meaning. Chunks of data that are similar in some way will tend to have embeddings that are closer together than unrelated data. OpenAI offers text embedding models that take as input a text string and produce as output an embedding vector. Embeddings are useful for search, clustering, recommendations, anomaly detection, classification, and more. Read more about embeddings in our embeddings guide.
 
+## API KEY
+1. Sign Up to OpenAi Website
+     <br>
+<a href='https://platform.openai.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up-100000?style=for-the-badge&logo=signup&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Next, Get your api key
+      <br>
+<a href='https://platform.openai.com/account/api-keys' target="_blank"><img alt='GET API KEY' src='https://img.shields.io/badge/Get_Api_Key-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 ### SETUP
 
 1. Scan the QR code
