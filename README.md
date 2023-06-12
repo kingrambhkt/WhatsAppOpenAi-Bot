@@ -34,7 +34,7 @@ In addition to research, OpenAI is committed to sharing knowledge and resources.
 <a href='https://platform.openai.com/account/api-keys' target="_blank"><img alt='GET API KEY' src='https://img.shields.io/badge/Get_Api_Key-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ## Deploy Bot
-1. Deploy to Replit
+**1. Deploy to Replit**
 - Create Account in Replit
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up_on_Replit-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
@@ -49,7 +49,7 @@ In addition to research, OpenAI is committed to sharing knowledge and resources.
 
 - Click To Run Button & Scan Qr Code Using Your Whatsapp.
 
-2. Deploy to Termux
+**2. Deploy to Termux**
 - Fork this Repository
     <br>
 <a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_Repository-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
