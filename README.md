@@ -64,9 +64,11 @@ In addition to research, OpenAI is committed to sharing knowledge and resources.
      <br>
 <a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/Deploy_To_Koyeb-100000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black&color=black'/></a>
 
+5. Deploy to Termux
+      <br>
+<a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO TERMUX' src='https://img.shields.io/badge/Deploy_To_Termux-100000?style=for-the-badge&logo=termux&logoColor=white&labelColor=black&color=black'/></a>
 
-
-## Owner
+## About Owner
 <a href="https://chat.whatsapp.com/EeiKN4HNE4z4h03G4PueqL"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <a href="https://wa.me/+94789481495"><img alt="Owner" src="https://img.shields.io/badge/-Contact%20Owner-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
