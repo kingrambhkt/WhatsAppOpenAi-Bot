@@ -17,6 +17,13 @@ OpenAI's GPT (generative pre-trained transformer) models have been trained to un
 ## Embeddings
 An embedding is a vector representation of a piece of data (e.g. some text) that is meant to preserve aspects of its content and/or its meaning. Chunks of data that are similar in some way will tend to have embeddings that are closer together than unrelated data. OpenAI offers text embedding models that take as input a text string and produce as output an embedding vector. Embeddings are useful for search, clustering, recommendations, anomaly detection, classification, and more. Read more about embeddings in our embeddings guide.
 
+## What is OpenAI?
+OpenAI, short for Open Artificial Intelligence, is an organization focused on the research and development of artificial intelligence technologies. It was founded in December 2015 with the goal of ensuring that AI benefits all of humanity. OpenAI conducts extensive research in areas such as natural language processing, machine learning, reinforcement learning, computer vision, and robotics.
+
+OpenAI aims to create safe and beneficial AI systems while actively promoting openness, collaboration, and responsible deployment of AI technologies. They have released several notable models, including GPT (Generative Pre-trained Transformer) series, which I am based on. OpenAI has also been involved in various AI projects, competitions, and initiatives to foster the advancement of AI in a way that aligns with societal well-being.
+
+In addition to research, OpenAI is committed to sharing knowledge and resources. They have provided access to their models, APIs, and tools, allowing developers and researchers to build upon their work and create new applications. OpenAI has made significant contributions to the field of AI and continues to make strides in pushing the boundaries of what is possible.
+
 ## API KEY
 - Sign Up to OpenAi Website
      <br>
