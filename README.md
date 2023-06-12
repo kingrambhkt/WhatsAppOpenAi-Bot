@@ -84,6 +84,7 @@ As a continuous learner, Maazin stays up to date with the latest advancements in
 
 In conclusion, Maazin Ahamed's expertise as a JavaScript developer and his deep understanding of the WhatsApp platform have been instrumental in the creation of the groundbreaking WhatsAppOpenAi-Bot. His proficiency in JavaScript, combined with his collaborative nature and commitment to continuous learning, positions him as a skilled developer who excels in delivering innovative solutions. Through his work, Maazin empowers WhatsApp users with a powerful tool that revolutionizes communication and productivity.
 
+#### 🎭 Contact Owner
 - WhatsApp
      <br>
 <a href="https://wa.me/+94789481495"><img alt="Owner" src="https://img.shields.io/badge/-Contact%20Owner-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
