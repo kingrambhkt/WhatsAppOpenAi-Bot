@@ -176,10 +176,10 @@ async function startHisoka() {
     `./${sessionName ? sessionName : "session"}`
   );
   const { version, isLatest } = await fetchLatestBaileysVersion();
-  console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
+  console.log(`WhatsApp v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("WHATSAPP-GPT", {
+      figlet.textSync("MZN-STUDIOS", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
