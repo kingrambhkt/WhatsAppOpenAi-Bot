@@ -19,27 +19,27 @@ OpenAI's GPT (generative pre-trained transformer) models have been trained to un
 An embedding is a vector representation of a piece of data (e.g. some text) that is meant to preserve aspects of its content and/or its meaning. Chunks of data that are similar in some way will tend to have embeddings that are closer together than unrelated data. OpenAI offers text embedding models that take as input a text string and produce as output an embedding vector. Embeddings are useful for search, clustering, recommendations, anomaly detection, classification, and more. Read more about embeddings in our embeddings guide.
 
 ## API KEY
-1. Sign Up to OpenAi Website
+- Sign Up to OpenAi Website
      <br>
 <a href='https://platform.openai.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up-100000?style=for-the-badge&logo=signup&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Get your api key and copy!
+- Get your api key and copy!
       <br>
 <a href='https://platform.openai.com/account/api-keys' target="_blank"><img alt='GET API KEY' src='https://img.shields.io/badge/Get_Api_Key-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-### SETUP
+## SETUP
 
-1. Scan the QR code
+- Scan the QR code
     <br>
 <a href='https://replit.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Fork this Repository
+- Fork this Repository
     <br>
 <a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_This_Repository-100000?style=for-the-badge&logo=fork&logoColor=white&labelColor=black&color=black'/></a>
 
-3. Upload creds.json file to session folder
+- Upload creds.json file to session folder
 
-4. Add your OpenAi Api Key in .env file
+- Add your OpenAi Api Key in .env file
 
 ## Deploy Bot
 1. Deploy to Heroku
@@ -54,7 +54,7 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
      <br>
 <a href='https://replit.com/' target="_blank"><img alt='DEPLOY TO REPLIT' src='https://img.shields.io/badge/Deploy_To_Replit-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=black&color=black'/></a>
 
-4. Deploy to Koyeb
+4. Deloy to Koyeb
      <br>
 <a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/Deploy_To_Koyeb-100000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -66,3 +66,7 @@ An embedding is a vector representation of a piece of data (e.g. some text) that
 <a href="https://wa.me/+94789481495"><img alt="Owner" src="https://img.shields.io/badge/-Contact%20Owner-black?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <a href="https://m.facebook.com/Fathi.Ilma.Afc"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook%20Page-black?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+
+## License
+This repository was  using [GitHub Pages](https://pages.github.com/).
+
