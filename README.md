@@ -3,7 +3,7 @@
 <img src="https://github.com/MznStudios/WhatsAppOpenAi-Bot/blob/main/Media/Images/WhatsAppOpenAi.jpg?raw=true" width="300" height="300"/>
 </p>
 <p align="center">
-<a href="https://github.com/MznStudios"><img title="Author" src="https://img.shields.io/badge/WHATSAPP CHATGPT-black?style=for-the-badge&logo=social"></a>
+<a href="https://github.com/MznStudios"><img title="Author" src="https://img.shields.io/badge/POWERED BY MZN STUDIOS-black?style=for-the-badge&logo=social"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/MznStudios?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MznStudios?label=Followers&style=social"></a>
