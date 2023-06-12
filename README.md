@@ -33,40 +33,45 @@ In addition to research, OpenAI is committed to sharing knowledge and resources.
       <br>
 <a href='https://platform.openai.com/account/api-keys' target="_blank"><img alt='GET API KEY' src='https://img.shields.io/badge/Get_Api_Key-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-## SETUP
-
-- Scan the QR code
+## Deploy Bot
+1. Deploy to Replit
+- Create Account in Replit
     <br>
-<a href='https://replit.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/signup' target="_blank"><img alt='SIGN UP' src='https://img.shields.io/badge/Sign_Up_on_Replit-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
 
+- Import this github repository using your Replit Account
+    <br>
+<a href='https://replit.com/github/MznStudios/WhatsAppOpenAi-Bot' target="_blank"><img alt='FORK GITHUB TEMPLATE TO REPLIT' src='https://img.shields.io/badge/Import_Github_Repository-100000?style=for-the-badge&logo=nonelogoColor=white&labelColor=black&color=black'/></a>
+
+- Setup Bot in Replit
+    <br>
+<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot#setup' target="_blank"><img alt='SETUP BOT' src='https://img.shields.io/badge/Setup_Bot-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
+
+- Click To Run Button & Scan Qr Code Using Your Whatsapp.
+
+2. Deploy to Termux
 - Fork this Repository
     <br>
-<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_This_Repository-100000?style=for-the-badge&logo=fork&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_Repository-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
 
-- Upload creds.json file to session folder
+- Add your OpenAi Api Key in .env file!
 
-- Add your OpenAi Api Key in .env file
+- Now, Run Codes On Replit
+```js
 
-## Deploy Bot
-1. Deploy to Heroku
-     <br>
-<a href='https://heroku.com/' target="_blank"><img alt='DEPLOY TO HEROKU' src='https://img.shields.io/badge/Deploy_To_Heroku-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=black&color=black'/></a>
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install git -y
+pkg install git -y
+pkg install nodejs -y 
+git clone {forkedLink}
+cd whatsapp-chatgpt
+npm install
+npm start
+```
 
-2. Deploy to Railway
-     <br>
-<a href='https://railway.com/' target="_blank"><img alt='DEPLOY TO RAILWAY' src='https://img.shields.io/badge/Deploy_To_Railway-100000?style=for-the-badge&logo=railway&logoColor=white&labelColor=black&color=black'/></a>
-
-3. Deploy to Replit
-     <br>
-<a href='https://replit.com/' target="_blank"><img alt='DEPLOY TO REPLIT' src='https://img.shields.io/badge/Deploy_To_Replit-100000?style=for-the-badge&logo=replit&logoColor=white&labelColor=black&color=black'/></a>
-
-4. Deloy to Koyeb
-     <br>
-<a href='https://koyeb.com/' target="_blank"><img alt='DEPLOY TO KOYEB' src='https://img.shields.io/badge/Deploy_To_Koyeb-100000?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=black&color=black'/></a>
-
-5. Deploy to Termux
-      <br>
-<a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/blob/main/deploy_to_termux.md' target="_blank"><img alt='DEPLOY TO TERMUX' src='https://img.shields.io/badge/Deploy_To_Termux-100000?style=for-the-badge&logo=termux&logoColor=white&labelColor=black&color=black'/></a>
+- Scan QR Code on your WhatsApp by Termux Console!
 
 ## About Owner
 
