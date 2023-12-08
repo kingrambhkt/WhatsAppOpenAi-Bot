@@ -11,24 +11,6 @@
     <style>
         body {
             font-family: 'Poppins', sans-serif;
-            background-color: #111; /* Dark theme background color */
-            color: #fff; /* Light text color */
-            margin: 0;
-            overflow: hidden; /* Hide horizontal scrollbar */
-        }
-
-        h1, p, a, button {
-            color: #fff; /* Light text color */
-        }
-
-        /* Add neon animation to the body background */
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
             background: linear-gradient(
                 45deg,
                 #00ff00,
@@ -41,8 +23,17 @@
             );
             background-size: 400% 400%;
             animation: neonAnimation 10s ease infinite;
+            margin: 0;
+            overflow: hidden; /* Hide horizontal scrollbar */
         }
 
+        h1, p, a, button {
+            color: #fff; /* Light text color */
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        /* Add neon animation to the body background */
         @keyframes neonAnimation {
             0% {
                 background-position: 0% 50%;
