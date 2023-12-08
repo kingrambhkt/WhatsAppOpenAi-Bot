@@ -62,7 +62,7 @@ In addition to research, OpenAI is committed to sharing knowledge and resources.
     <br>
 <a href='https://github.com/MznStudios/WhatsAppOpenAi-Bot/fork' target="_blank"><img alt='FORK REPOSITORY' src='https://img.shields.io/badge/Fork_Repository-100000?style=for-the-badge&logo=none&logoColor=white&labelColor=black&color=black'/></a>
 
-- Add your OpenAi Api Key in .env file!
+- Add your OpenAi Api Key in [key.json](https://github.com/MznStudios/WhatsAppOpenAi-Bot/blob/v1/key.json) file!
 
 - Now, Run Codes On Replit
 ```js
