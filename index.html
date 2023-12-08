@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OpenAI WhatsApp Bot</title>
+
+    <!-- Include Poppins font from Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap">
+
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #111; /* Dark theme background color */
+            color: #fff; /* Light text color */
+            margin: 0;
+            overflow: hidden; /* Hide horizontal scrollbar */
+        }
+
+        h1, p, a, button {
+            color: #fff; /* Light text color */
+        }
+
+        /* Add neon animation to the body background */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(
+                45deg,
+                #00ff00,
+                #00ffcc,
+                #00ccff,
+                #0000ff,
+                #cc00ff,
+                #ff00cc,
+                #ff0066
+            );
+            background-size: 400% 400%;
+            animation: neonAnimation 10s ease infinite;
+        }
+
+        @keyframes neonAnimation {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to the OpenAI WhatsApp Bot</h1>
+    
+    <p>This bot is developed by Maazin Ahamed. Contact the developer for any help:</p>
+
+    <a href="https://wa.me/+94789481495" target="_blank">Contact Developer on WhatsApp</a>
+
+    <!-- Add your OpenAI bot integration code here -->
+
+    <!-- Buttons for Scan QR Code and Pairing Code -->
+    <button onclick="openScanQRCodePage()">Scan QR Code</button>
+    <button onclick="openPairingCodePage()">Pairing Code</button>
+
+    <script>
+        // Add your JavaScript functions for opening HTML pages here
+        function openScanQRCodePage() {
+            // Open the scan-qr-code.html page
+            window.location.href = 'scan-qr-code.html';
+        }
+
+        function openPairingCodePage() {
+            // Open the pairing-code.html page
+            window.location.href = 'pairing-code.html';
+        }
+    </script>
+
+</body>
+</html>
